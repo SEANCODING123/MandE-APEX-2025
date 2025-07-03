@@ -1,0 +1,77 @@
+# Apex Education M&E Report Jekyll Configuration
+
+title: "Apex Education M&E Report 2025"
+description: "Monitoring & Evaluation Report - End of Term 2"
+url: "https://seancoding123.github.io"
+baseurl: "/apex-education-me-report-2025"
+
+# Site settings
+author: "Apex Education"
+email: "info@apex-schools.org"
+organization: "Apex Education"
+location: "Stellenbosch, Western Cape, South Africa"
+
+# Report specific settings
+report:
+  period: "End of Term 2"
+  year: 2025
+  version: "1.0"
+  generated_date: "June 2025"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections for reports
+collections:
+  reports:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "reports"
+    values:
+      layout: "report"
+
+# Sass configuration
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Asset path configuration
+assets:
+  compress:
+    css: true
+    js: true
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - chunk*.html
+
+# Include files in processing
+include:
+  - _pages
+
+# Timezone
+timezone: Africa/Johannesburg

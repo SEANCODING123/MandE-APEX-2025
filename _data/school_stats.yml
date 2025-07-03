@@ -1,0 +1,44 @@
+# School Statistics Data for Jekyll Site
+
+apex_stellenbosch:
+  grades_served: "4, 8, 9"
+  total_scholars: 326
+  scholar_absenteeism_rate: 2.2
+  facilitators_teachers: 12
+  staff_absenteeism_rate: 1.9
+  
+platform:
+  a2_lms:
+    lessons_created: 3700
+    target_lessons: 5000
+    progress_percentage: 74
+    target_date: "January 2025"
+    
+  curriculum_coverage:
+    grades_8_9: "All CAPS subject requirements, including First Additional Languages (IsiXhosa, Afrikaans)"
+    grades_10_12: "English HL, Afrikaans FAL, Mathematics, Mathematical Literacy, Physical Science, Life Science, Business Studies, History, Geography, Tourism"
+    
+  partner_schools:
+    count: 4
+    description: "Schools across 3 provinces using our platform and receiving support"
+
+professional_development:
+  training_hours: 40
+  
+staff_survey:
+  happiness_motivation:
+    score: 3.9
+    percentage: 78
+  support_at_work:
+    score: 4.0
+    percentage: 80
+  tools_resources:
+    score: 4.4
+    percentage: 88
+
+report_info:
+  period: "End of Term 2"
+  year: 2025
+  version: "1.0"
+  generated: "June 2025"
+  next_report: "End of Term 3"
