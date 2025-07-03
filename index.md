@@ -57,30 +57,48 @@ description: "Apex Education Monitoring & Evaluation Report 2025 - End of Term 2
         <h2 class="section-title">Snapshot of Apex Stellenbosch School</h2>
     </div>
     
-    <div class="school-stats">
-        <div class="stats-grid">
-            <div class="stat-card">
-                <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.grades_served }}</div>
-                <div class="stat-label">Grades Served</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.total_scholars }}</div>
-                <div class="stat-label">Number of Scholars</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.scholar_absenteeism_rate }}%</div>
-                <div class="stat-label">Scholar Absenteeism Rate</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.facilitators_teachers }}</div>
-                <div class="stat-label">Facilitators and Teachers</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.staff_absenteeism_rate }}%</div>
-                <div class="stat-label">Teacher/Facilitator Absenteeism Rate</div>
-            </div>
-        </div>
-    </div>
+     <div class="school-stats">
+      <!-- Grades Served - Primary Metric -->
+      <div class="stats-section">
+          <h3 class="stats-section-title">Academic Program</h3>
+          <div class="stats-row">
+              <div class="stat-card primary-stat">
+                  <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.grades_served }}</div>
+                  <div class="stat-label">Grades Served</div>
+              </div>
+          </div>
+      </div>
+
+      <!-- Scholar Statistics -->
+      <div class="stats-section">
+          <h3 class="stats-section-title">Scholar Statistics</h3>
+          <div class="stats-row">
+              <div class="stat-card">
+                  <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.total_scholars }}</div>
+                  <div class="stat-label">Total Scholars</div>
+              </div>
+              <div class="stat-card">
+                  <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.scholar_absenteeism_rate }}%</div>
+                  <div class="stat-label">Scholar Absenteeism Rate</div>
+              </div>
+          </div>
+      </div>
+
+      <!-- Staff Statistics -->
+      <div class="stats-section">
+          <h3 class="stats-section-title">Teaching Staff</h3>
+          <div class="stats-row">
+              <div class="stat-card">
+                  <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.facilitators_teachers }}</div>
+                  <div class="stat-label">Facilitators & Teachers</div>
+              </div>
+              <div class="stat-card">
+                  <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.staff_absenteeism_rate }}%</div>
+                  <div class="stat-label">Staff Absenteeism Rate</div>
+              </div>
+          </div>
+      </div>
+  </div>
 
     <!-- Grade Progress Section -->
     <div class="grade-progress">
