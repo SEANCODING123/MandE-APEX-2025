@@ -228,9 +228,10 @@ description: "Apex Education Monitoring & Evaluation Report 2025 - End of Term 2
             <h3 class="subsection-title">A2 Platform</h3>
             <div class="platform-stats">
                 <div class="platform-highlight">
-                    <div class="platform-number">{{ site.data.school_stats.platform.a2_lms.lessons_created | prepend: ',' | split: ',' | join: ',' }}+</div>
+        <div class="platform-number">{{ site.data.school_stats.platform.a2_lms.lessons_created }}+</div>
                     <div class="platform-label">LMS Lessons Created</div>
-                    <div class="platform-note">On target for {{ site.data.school_stats.platform.a2_lms.target_lessons | prepend: ',' | split: ',' | join: ',' }} by {{ site.data.school_stats.platform.a2_lms.target_date }}</div>
+                    <div class="platform-note">On target for {{ site.data.school_stats.platform.a2_lms.target_lessons }} 
+                    by {{ site.data.school_stats.platform.a2_lms.target_date }}</div> 
                 </div>
             </div>
 
