@@ -129,15 +129,15 @@ description: "Apex Education Monitoring & Evaluation Report 2025 - End of Term 2
                 <div class="trend-graphs">
                     <div class="trend-item">
                         <img src="{{ '/assets/images/trends/Grade 8 Term 2 Trends EMA.jpeg' | relative_url }}" alt="Grade 8 EMA Trends" class="trend-graph">
-                        <p class="trend-caption">EMA Trends</p>
+                        <p class="trend-caption">English Mathematics Afrikaans Trends</p>
                     </div>
                     <div class="trend-item">
                         <img src="{{ '/assets/images/trends/Grade 8 Term 2 Trends HEN.jpeg' | relative_url }}" alt="Grade 8 HEN Trends" class="trend-graph">
-                        <p class="trend-caption">HEN Trends</p>
+                        <p class="trend-caption">HSS EMS Natural Sciences Trends</p>
                     </div>
                     <div class="trend-item">
                         <img src="{{ '/assets/images/trends/Grade 8 Term 2 Trends LAT.jpeg' | relative_url }}" alt="Grade 8 LAT Trends" class="trend-graph">
-                        <p class="trend-caption">LAT Trends</p>
+                        <p class="trend-caption">Life Orientation Creative Arts Technology Trends</p>
                     </div>
                 </div>
             </div>
@@ -147,15 +147,15 @@ description: "Apex Education Monitoring & Evaluation Report 2025 - End of Term 2
                 <div class="trend-graphs">
                     <div class="trend-item">
                         <img src="{{ '/assets/images/trends/Grade 9 Term 2 Trends EMA.jpeg' | relative_url }}" alt="Grade 9 EMA Trends" class="trend-graph">
-                        <p class="trend-caption">EMA Trends</p>
+                        <p class="trend-caption">English Mathematics Afrikaans Trends</p>
                     </div>
                     <div class="trend-item">
                         <img src="{{ '/assets/images/trends/Grade 9 Term 2 Trends HEN.jpeg' | relative_url }}" alt="Grade 9 HEN Trends" class="trend-graph">
-                        <p class="trend-caption">HEN Trends</p>
+                        <p class="trend-caption">HSS EMS Natural Sciences Trends</p>
                     </div>
                     <div class="trend-item">
                         <img src="{{ '/assets/images/trends/Grade 9 Term 2 Trends LAT.jpeg' | relative_url }}" alt="Grade 9 LAT Trends" class="trend-graph">
-                        <p class="trend-caption">LAT Trends</p>
+                        <p class="trend-caption">Life Orientation Creative Arts Technology Trends</p>
                     </div>
                 </div>
             </div>
