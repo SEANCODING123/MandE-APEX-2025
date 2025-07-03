@@ -14,13 +14,31 @@ description: "Apex Education Monitoring & Evaluation Report 2025 - End of Term 2
 </section>
 
 <!-- Overview Section -->
-<section id="overview" class="content-section">
-    <h2 class="section-title">Overview</h2>
-    <div class="content-placeholder">
-        <p><em>Content to be added</em></p>
-        <p>Detailed overview of the monitoring and evaluation framework, assessment methodologies, and reporting period specifics.</p>
-    </div>
-</section>
+  <section id="overview" class="content-section">
+      <h2 class="section-title">Overview</h2>
+
+      <div class="overview-content">
+          <div class="overview-grid">
+              <div class="overview-card">
+                  <h3 class="card-title">Our Mission</h3>
+                  <p>At Apex Education, we firmly believe that every child deserves access to the highest quality education, irrespective of their socioeconomic status. Our
+  mission is to blend the best of teachers and technology to provide high-quality schools at the lowest possible cost and fees.</p>
+
+                  <p>While enrolling every learner in a small class taught by an expert teacher is the commonly accepted ideal, it is only viable for households that have the
+  financial resources to do so. By reimagining classroom design and leveraging technology, we're making high-quality education accessible to all.</p>
+              </div>
+
+              <div class="overview-card">
+                  <h3 class="card-title">Our Approach</h3>
+                  <p>Our blended learning model combines the expertise of passionate teachers with innovative technology. Each class has 100 students supervised by one qualified       
+  teacher and two trained facilitators, with each student having their own device for personalized learning.</p>
+
+                  <p>Technology delivers curriculum content through engaging digital lessons, while teachers focus on identifying learning gaps through real-time data and
+  providing targeted interventions. This approach has proven to deliver educational outcomes comparable to the best schools in South Africa at half the cost.</p>
+              </div>
+          </div>
+      </div>
+  </section>
 
 <!-- 2024 Systemic Results Section -->
 <section id="systemic-results" class="content-section">
