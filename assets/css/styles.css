@@ -644,31 +644,44 @@ body {
      PROFESSIONAL FORMATTING IMPROVEMENTS
      =========================================== */
 
-  /* Executive Summary - Better Visual Treatment */
-  #executive-summary .content-placeholder {
-      background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%);
-      border: 2px solid var(--primary-accent);
-      border-radius: 12px;
-      position: relative;
-      overflow: hidden;
+  /* Executive Summary - Professional Look */
+  #executive-summary {
+      background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+      color: white;
   }
 
-  #executive-summary .content-placeholder::before {
-      content: '';
-      position: absolute;
-      top: -50px;
-      right: -50px;
-      width: 150px;
-      height: 150px;
-      background: radial-gradient(circle, rgba(0,123,255,0.1) 0%, transparent 70%);
-      border-radius: 50%;
+  #executive-summary .section-title {
+      color: white;
+      border-bottom: 3px solid #fbbf24;
+  }
+
+  #executive-summary .content-placeholder {
+      background: rgba(255, 255, 255, 0.95);
+      color: #1f2937;
+      border: none;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+      padding: 2.5rem;
+      margin: 2rem 0;
   }
 
   #executive-summary .content-placeholder p:first-child {
-      font-size: 1.1rem;
-      font-weight: 600;
-      color: var(--primary-accent);
-      margin-bottom: 1rem;
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #1e3a8a;
+      margin-bottom: 1.5rem;
+      text-align: center;
+      background: #fef3c7;
+      padding: 1rem;
+      border-radius: 8px;
+      border-left: 4px solid #f59e0b;
+  }
+
+  #executive-summary .content-placeholder p:last-child {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: #374151;
+      font-weight: 500;
   }
 
   /* Overview Section - Different Visual Treatment */
