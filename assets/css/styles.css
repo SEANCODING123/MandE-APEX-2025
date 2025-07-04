@@ -677,11 +677,17 @@ body {
   #executive-summary .content-placeholder p:last-child {
       font-size: 1rem;
       line-height: 1.8;
-      color: #4b5563;
-      font-weight: 400;
+      color: #1f2937;
+      font-weight: 600;
       margin-top: 1.5rem;
   }
+  #executive-summary .content-placeholder p {
+      margin-bottom: 1.5rem;
+  }
 
+  #executive-summary .content-placeholder p:last-child {
+      margin-bottom: 0;
+  }
   /* Overview Section - Different Visual Treatment */
   #overview {
       background: linear-gradient(135deg, #fff8e1 0%, #f0f4f8 100%);
