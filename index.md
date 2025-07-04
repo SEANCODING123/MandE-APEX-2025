@@ -222,11 +222,15 @@ description: "Apex Education Monitoring & Evaluation Report 2025 - End of Term 2
 <section id="platform" class="content-section">
     <h2 class="section-title">Our Platform</h2>
     
-    <div class="platform-content">
-        <!-- A2 Platform -->
-        <div class="a2-platform">
-            <h3 class="subsection-title">A2 Platform</h3>
-            <div class="platform-stats">
+  <!-- A2 Platform -->
+  <div class="a2-platform">
+      <div class="platform-header">
+          <img src="{{ '/assets/images/logos/A2_logo_primary_colour_transp.png' | relative_url }}"
+               alt="A2 Platform Logo"
+               class="platform-logo">
+          <h3 class="subsection-title">A2 Platform</h3>
+      </div>
+      <div class="platform-stats">
                 <div class="platform-highlight">
         <div class="platform-number">{{ site.data.school_stats.platform.a2_lms.lessons_created }}+</div>
                     <div class="platform-label">LMS Lessons Created</div>
