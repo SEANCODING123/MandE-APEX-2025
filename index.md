@@ -44,7 +44,7 @@ description: "Apex Education Monitoring & Evaluation Report 2025 - End of Term 2
 <section id="systemic-results" class="content-section">
     <h2 class="section-title">2024 Systemic Results</h2>
     <div class="results-content">
-        <p class="results-intro">Great success achieved in 2024 systemic results.</p>
+        <p class="results-intro">Our 2024 Systemic results continue to show and build off the 2023 Systemic results, where our scholars are achieving pass rates well above the norms of the Province.</p>
         
         <div class="systemic-graphs">
             <h3 class="subsection-title">Systemic Graphs</h3>
@@ -121,7 +121,7 @@ description: "Apex Education Monitoring & Evaluation Report 2025 - End of Term 2
     <!-- Grade Progress Section -->
     <div class="grade-progress">
         <h3 class="subsection-title">Grade 8 and 9 Progress</h3>
-        <p class="progress-description">Upward trend continues with iterative improvements and training on the modality.</p>
+        <p class="progress-description">Upward trend continues with iterative improvements and training on the modality. As our practices in the classroom and iterations on the LMS continue to get better we forecast that this upward trend will continue</p>
         
         <div class="trends-container">
             <div class="grade-section">
@@ -169,7 +169,7 @@ description: "Apex Education Monitoring & Evaluation Report 2025 - End of Term 2
     
     <div class="teachers-content">
         <div class="content-placeholder">
-            <p><em>Short write-up TBD</em></p>
+            <p><em>Our teachers and facilitators are not support staff in a tech-driven model – they are the focal point of everything we do. The Apex model is built on a fundamental belief: investing in educator development creates transformative educational outcomes. We've designed clear career pathways that allow facilitators to progress to teaching roles. Through structured training programs, collaborative planning sessions, and continuous professional development, we ensure our educators grow alongside our learners.</em></p>
             <p>Dedicated information about our educational team, their professional development, and commitment to excellence in teaching.</p>
         </div>
 
