@@ -170,7 +170,7 @@ description: "Apex Education Monitoring & Evaluation Report 2025 - End of Term 2
     <div class="teachers-content">
         <div class="content-placeholder">
             <p><em>Our teachers and facilitators are not support staff in a tech-driven model – they are the focal point of everything we do. The Apex model is built on a fundamental belief: investing in educator development creates transformative educational outcomes. We've designed clear career pathways that allow facilitators to progress to teaching roles. Through structured training programs, collaborative planning sessions, and continuous professional development, we ensure our educators grow alongside our learners.</em></p>
-            <p>Dedicated information about our educational team, their professional development, and commitment to excellence in teaching.</p>
+            
         </div>
 
         <div class="training-stats">
