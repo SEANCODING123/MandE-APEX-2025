@@ -463,6 +463,20 @@ body {
     color: var(--text-color);
     margin: 0;
 }
+ /* Platform Logo Styles - ADD THIS */
+  .platform-logo {
+      height: 40px;
+      width: auto;
+      object-fit: contain;
+      margin-right: 1rem;
+  }
+
+  .platform-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+  }
 
 /* Footer */
 .footer {
@@ -531,7 +545,13 @@ body {
         text-align: center;
         gap: 1.5rem;
     }
-    
+    .platform-logo {
+      height: 30px;
+  }
+
+  .school-logo {
+      height: 45px;
+  }
     .apex-logo {
         height: 60px;
     }
