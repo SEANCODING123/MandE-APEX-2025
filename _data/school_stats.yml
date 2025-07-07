@@ -3,9 +3,9 @@
 apex_stellenbosch:
   grades_served: "4, 8, 9"
   total_scholars: 326
-  scholar_absenteeism_rate: 2.2
+  scholar_absenteeism_rate: 97.8
   facilitators_teachers: 12
-  staff_absenteeism_rate: 1.9
+  staff_absenteeism_rate: 98.1
   
 platform:
   a2_lms:
