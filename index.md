@@ -101,7 +101,7 @@ Apex Education</p>
               </div>
               <div class="stat-card">
                   <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.scholar_absenteeism_rate }}%</div>
-                  <div class="stat-label">Scholar Absenteeism Rate</div>
+                  <div class="stat-label">Scholar Attendance Rate</div>
               </div>
           </div>
       </div>
@@ -116,7 +116,7 @@ Apex Education</p>
               </div>
               <div class="stat-card">
                   <div class="stat-number">{{ site.data.school_stats.apex_stellenbosch.staff_absenteeism_rate }}%</div>
-                  <div class="stat-label">Staff Absenteeism Rate</div>
+                  <div class="stat-label">Staff Attendance Rate</div>
               </div>
           </div>
       </div>
